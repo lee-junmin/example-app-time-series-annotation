@@ -58,7 +58,7 @@ def get_chart(data):
     return (lines + points + tooltips).interactive()
 
 
-st.title("⬇ Time series annotations")
+st.title("⬇ Time series annotations - azure test")
 
 st.write("Give more context to your time series using annotations!")
 
