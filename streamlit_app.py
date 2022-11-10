@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 from vega_datasets import data
 
-alt.themes.enable("vega.themes.dark")
+alt.themes.enable("none")
 
 st.set_page_config(
     page_title="Time series annotations", page_icon="⬇", layout="centered"
