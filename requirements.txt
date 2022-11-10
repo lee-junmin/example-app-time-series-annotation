@@ -1,2 +1,2 @@
 vega-datasets
-streamlit
+streamlit==1.11.1
